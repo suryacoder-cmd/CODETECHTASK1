@@ -3,7 +3,9 @@ NAME:ANNEPU SURYA
 Company:CODETECH IT SOLUTIONS
 ID:COD41084
 Domain:Artificial Intelligence & Machine Learning
+
 Housing Price Prediction using Linear Regression
+
 This project implements a Linear Regression model to predict housing prices based on various features such as square footage, number of bedrooms, location, and more. The Boston Housing dataset is used for training and evaluation
 Introduction
 Housing price prediction is a critical task in real estate analytics, enabling stakeholders to make informed decisions about property investments and pricing strategies. This project demonstrates how Linear Regression can be used to predict housing prices with features such as:
